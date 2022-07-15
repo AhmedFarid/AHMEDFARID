@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Ahmed Farid 👋</h1>
+<p align="center">
+    <a href="https://www.facebook.com/ahmed.farido"><img src="https://img.shields.io/badge/facebook-%231FA1F1?style=flat&logo=facebook&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/ahmed-farid-8508a6120/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 
-<!--
-**AhmedFarid/AhmedFarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-Here are some ideas to get you started:
+I am Mobile app developer (IOS App developer), Professional mobile IOS developer with 3 years experience in both mobile app development and mobile
+app design. Highly skilled at creating applications with swift and objective c. Expertise in UI&UX design with
+adobe xd. And solid understanding of business requires and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm a software developer Orca Vision in Cairo, Egypt
+- 🔍 my live apps in app store: 
+  - [SoGood (iOS version)](https://apps.apple.com/eg/app/sogood-%D8%B3%D9%88%D8%AC%D9%88%D8%AF/id1614068981)
+  - [Chair Location (iOS version)](https://apps.apple.com/us/app/chair-location/id1594027102)
+  - [Jazar (iOS version)](https://apps.apple.com/us/app/id1525254401)
+- 💬 Ask me about **Ios and Swift**
