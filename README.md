@@ -6,7 +6,7 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I am Mobile app developer (IOS App developer), Professional mobile IOS developer with 3 years experience in both mobile app development and mobile
+I am Mobile app developer (IOS App developer), with 3 years experience in both mobile app development and mobile
 app design. Highly skilled at creating applications with swift and objective c. Expertise in UI&UX design with
 adobe xd. And solid understanding of business requires and learning new technologies.
 
