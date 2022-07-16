@@ -6,12 +6,10 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I am a Mobile app developer (IOS App developer), with 3 years of experience in both mobile app development and mobile
-app design. Highly skilled at creating applications with swift and objective c. Expertise in UI&UX design with
-adobe xd. And solid understanding of business requires learning new technologies.
+I am a Mobile app developer (IOS App developer), with 3 years of experience in both mobile app development and mobile app design. Highly skilled at creating applications with swift and objective c. Expertise in UI&UX design with adobe xd. And solid understanding of business requires learning new technologies.
 
 - 🔭 I'm a software developer Orca Vision in Cairo, Egypt
-- 🔍 my lasts live apps in app store: 
+- 🔍 My lasts live apps in app store: 
   - [SoGood (iOS version)](https://apps.apple.com/eg/app/sogood-%D8%B3%D9%88%D8%AC%D9%88%D8%AF/id1614068981)
   - [Chair Location (iOS version)](https://apps.apple.com/us/app/chair-location/id1594027102)
   - [Jazar (iOS version)](https://apps.apple.com/us/app/id1525254401)
